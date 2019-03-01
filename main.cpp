@@ -4,10 +4,7 @@
 //
 //  Created by Aaron David Selya on 11/13/18.
 //  Copyright © 2018 Aaron David Selya. All rights reserved.
-//
-//
-//
-//
+
 //Basic algorithim Pseudocode:
 //int main (int argc, char **argv) {
 //while (1) {
